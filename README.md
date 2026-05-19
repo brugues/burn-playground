@@ -20,6 +20,8 @@ cargo run
 - MNIST training of a simple convolutional neural network ([from burn's repo](https://github.com/tracel-ai/burn/tree/main/examples/mnist))
 - Docker image
 
+![training image](docs/training.png)
+
 ## Usage
 
 Run the application using the provided Docker image with CUDA support:
