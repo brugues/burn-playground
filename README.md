@@ -12,7 +12,7 @@ git clone <repository-url>
 cd burn-playground
 
 # Build and run
-cargo run
+cargo run --release --features cuda
 ```
 
 ## Features
